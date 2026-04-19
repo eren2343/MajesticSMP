@@ -26,7 +26,7 @@ export const botConfig = {
     // 2 = Listening
     // 3 = Watching
     // 4 = Custom
-    // 5 = Competing
+    // 5 = Helping
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
@@ -93,7 +93,7 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699", 
+      primary: "#800080", 
       secondary: "#2F3136", 
 
       // Standard status colors for success/error/warning/info messages.
