@@ -31,8 +31,8 @@ export const botConfig = {
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "Server is under maintenance",
-        // Activity type number (1 = Playing).
-        type: 1, 
+        // Activity type number (0 = Playing).
+        type: 0, 
       },
     ],
   },
